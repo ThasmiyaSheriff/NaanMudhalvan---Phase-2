@@ -1,0 +1,9 @@
+Deployment Method: Streamlit Cloud (alternative: Gradio + Hugging Face Spaces, or Flask API on Render/Detaa)
+
+Public Link: [Insert your deployed Streamlit/Gradio/Flask URL here]
+
+UI Screenshot: [Attach screenshot of the deployed UI]
+
+Sample Prediction Output: 
+Input: "Breaking news: Celebrity scandal shocks fans."
+Output: FAKE
