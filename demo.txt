@@ -1,0 +1,15 @@
+## Demo: Fake News Detection Using NLP
+
+1. Upload or input a news article (title/text).
+2. System preprocesses the text (lowercase, remove stopwords/punctuation).
+3. Feature extraction via TF-IDF Vectorizer.
+4. Model Prediction using:
+   - Logistic Regression (Baseline)
+   - Random Forest Classifier (Better performance)
+
+### Example:
+Input: "NASA confirms water on Mars in new breakthrough study"
+Output: REAL
+
+### Deployment:
+Hosted via Streamlit Cloud with a simple user interface. Just paste your news text and get a prediction instantly.
